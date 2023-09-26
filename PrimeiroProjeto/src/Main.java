@@ -16,6 +16,11 @@ public class Main {
                 Filme de ação com galã dos anos 80
                   """;
         System.out.println(sinopse);
+
+    int classificacao = (int) (media /2);
+        System.out.println(classificacao);
     }
 
 }
+
+

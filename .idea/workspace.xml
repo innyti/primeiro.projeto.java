@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f51cbfe-446a-402a-8fac-6a1885a39514" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/primeiroprojetojava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiroprojetojava/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5f51cbfe-446a-402a-8fac-6a1885a39514" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +10,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2VdBPowi67pagceAH5CpFaPNUFR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +23,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/REPOS/primeiro.projeto.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
